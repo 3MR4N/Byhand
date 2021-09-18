@@ -1,0 +1,18 @@
+{
+	"Hello": "Hello",
+	"account_created_successfully": "Account created successfully",
+	"You have %s message": {
+		"one": "You have %s message",
+		"other": "You have %s messages"
+	},
+	"Could_not_perform": "Could not perform operation at this time, kindly try again later.",
+	"not_found": "Not found",
+	"added_successfully": "Added Successfully",
+	"updated_successfully": "Updated Successfully",
+	"has_been_deleted": "Deleted Successfully",
+	"you_already_checkin": "you already checkin",
+	"تمت الاضافة سابقا": "تمت الاضافة سابقا",
+	"Add_fava":"fav befor",
+	"you Rated": "you Rated",
+	"you Rated befor": "you Rated befor"
+}

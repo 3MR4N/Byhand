@@ -1,0 +1,21 @@
+{
+	"Hello": "مرحبا بك",
+	"account_created_successfully": "تم انشاء الحساب بنجاح",
+	"You have %s message": {
+		"one": "لديك رسالة واحدة",
+		"other": "لديك %s رسائل"
+	},
+	"Could_not_perform": "تعذر إجراء العملية في هذا الوقت ، يرجى المحاولة مرة أخرى في وقت لاحق.",
+	"not_found": "الطلب غير متوفر",
+	"added_successfully": "تمت الاضافة بنجاح",
+	"updated_successfully": "تم التعديل بنجاح",
+	"has_been_deleted": "تم الحذف بنجاح",
+	"you_already_checkin": "تم التسجيل مسبقا",
+	"you Rated": "you Rated",
+	"you Rated befor": "you Rated befor",
+	"لقد قمت بالتقيم من قبل": "لقد قمت بالتقيم من قبل",
+	"you fav": "you fav",
+	"تمت الاضافة من قبل": "تمت الاضافة من قبل",
+	"تمت الاضافة سابقا": "تمت الاضافة سابقا",
+	"Add_fava":"تم الاضافة سابقا"
+}
